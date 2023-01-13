@@ -1,0 +1,47 @@
+.promo {
+  width: 100%;
+  padding-bottom: 150px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.logoPromo {
+  width: 300px;
+  margin-bottom: 30px;
+}
+
+.characteristics {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+}
+.characteristics div {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.characteristicsImg {
+  width: 300px;
+  object-fit: cover;
+  opacity: 20%;
+}
+
+.characteristics h3 {
+  font-size: 1.6rem;
+  position: absolute;
+  width: 500px;
+  top: 40%;
+}
+
+@media screen and (max-width: 576px) {
+  .logoPromo {
+    width: 200px;
+  }
+  .characteristics {
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 992px) {
+}

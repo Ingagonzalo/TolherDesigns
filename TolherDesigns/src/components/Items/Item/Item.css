@@ -1,0 +1,51 @@
+.containerItem .card {
+  width: 400px;
+  height: 600px;
+  overflow: hidden;
+  margin: 20px;
+  text-align: center;
+  transition: all 0.25s;
+  position: relative;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.containerItem .card img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  object-position: inherit;
+}
+
+.itemList {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  flex-wrap: wrap;
+  margin-top: 100px;
+}
+
+.title {
+  display: flex;
+  align-content: flex-start;
+  justify-content: center;
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+
+.infoItem {
+  color: #1a161a;
+}
+
+@media (min-width: 700px) and (max-width: 1366px) {
+  .containerItem .card {
+    width: 430px;
+    height: 500px;
+  }
+
+  .containerItem .card img {
+    width: 430px;
+    height: 320px;
+  }
+}
