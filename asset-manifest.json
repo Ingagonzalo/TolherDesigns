@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1882b348.css",
+    "main.js": "/static/js/main.0226a4da.js",
+    "static/js/787.72f94a41.chunk.js": "/static/js/787.72f94a41.chunk.js",
+    "static/media/Banner.png": "/static/media/Banner.8c00d8538aeb8c99aa76.png",
+    "static/media/logoTDNegro.png": "/static/media/logoTDNegro.2f5f6c662146e8085ba2.png",
+    "static/media/Logo.png": "/static/media/Logo.d4ff0a57a7de12a92806.png",
+    "static/media/earthVector.png": "/static/media/earthVector.dcc7a23427e87601c278.png",
+    "static/media/naturalVector.png": "/static/media/naturalVector.a7cbe468ef67a1321f6a.png",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.f32e4c712f9a6a48f1185eab448b9774.svg",
+    "main.1882b348.css.map": "/static/css/main.1882b348.css.map",
+    "main.0226a4da.js.map": "/static/js/main.0226a4da.js.map",
+    "787.72f94a41.chunk.js.map": "/static/js/787.72f94a41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1882b348.css",
+    "static/js/main.0226a4da.js"
+  ]
+}
